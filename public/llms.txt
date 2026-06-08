@@ -1,0 +1,91 @@
+# Be a winner - השיטה המעשית לפיתוח מנהיגות — Generative Engine Optimization Map
+
+> A פיתוח מנהיגות וארגונים business.
+
+---
+
+## Pages
+
+### פתח מנהיגות מעוררת השראה — Be a winner - השיטה המעשית לפיתוח מנהיגות
+https://example.com
+גלה קואצ'ינג מקצועי שמפתח מנהיגות אמיתית. תוכנית פיתוח מנהיגות לניהול בכיר ולמנכ"לים. צור קשר עוד היום!
+
+### אפשרויות לימוד | קואצ'ינג ופיתוח מנהיגות לניהול בכיר - Be a winner
+https://example.com/learning-opportunities
+גלו את אפשרויות הלימוד של Be a winner: הרצאות השראה, סדנאות יומיות מעשיות, ותהליך קבוצתי פנים ארגוני. קואצ'ינג מתקדם ותוכניות פיתוח מנהיגות לניהול בכיר.
+
+### Page
+https://example.com/meet-the-team
+
+### Page
+https://example.com/what-makes-us-unique
+
+### סיפורי הצלחה ופריצות דרך ניהוליות | Be a winner
+https://example.com/customer-testimonials
+קראו וצפו בסיפורי ההצלחה של מנכ"לים ומנהלים בכירים שעברו תהליכי קואצ'ינג ופיתוח מנהיגות עם שיטת Be a winner. גלו כיצד אנו מובילים ארגונים לפריצות דרך.
+
+### Page
+https://example.com/communication-and-inspiration-performances
+
+### Page
+https://example.com/manager-to-leader
+
+### צור קשר לקואצ'ינג מקצועי — Be a winner - השיטה המעשית לפיתוח מנהיגות
+https://example.com/contact-us
+צור קשר עכשיו לקואצ'ינג למנכלים בישראל ותוכנית פיתוח מנהיגות לניהול בכיר. נשמח לשמוע ממך!
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- Email: robi@robi-steiner.co.il
+- Phone: 0587458008
+- Phone (tel): tel:0587458008
+
+### Contact form
+- URL: https://example.com/contact-us
+- Endpoint: https://example.com/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel, required)
+  - `company` (text)
+  - `service` (select)
+  - `message` (textarea)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Be a winner - השיטה המעשית לפיתוח מנהיגות
+Be a winner - השיטה המעשית לפיתוח מנהיגות is a business in the פיתוח מנהיגות וארגונים industry.
+
+## Target Audience
+מנכ"לים וניהול בכיר
+
+## Industry
+פיתוח מנהיגות וארגונים
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
