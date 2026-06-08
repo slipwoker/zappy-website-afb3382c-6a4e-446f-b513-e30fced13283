@@ -1,12 +1,12 @@
 # Be a winner - השיטה המעשית לפיתוח מנהיגות
 
-Source: https://example.com
+Source: https://be-a-winner.zappy5.app
 
 ---
 
 ## פתח מנהיגות מעוררת השראה — Be a winner - השיטה המעשית לפיתוח מנהיגות
 
-URL: https://example.com
+URL: https://be-a-winner.zappy5.app
 Description: גלה קואצ'ינג מקצועי שמפתח מנהיגות אמיתית. תוכנית פיתוח מנהיגות לניהול בכיר ולמנכ"לים. צור קשר עוד היום!
 
 פתח מנהיגות מעוררת השראה — Be a winner - השיטה המעשית לפיתוח מנהיגות
@@ -230,7 +230,7 @@ Description: גלה קואצ'ינג מקצועי שמפתח מנהיגות אמ�
 
 ## אפשרויות לימוד | קואצ'ינג ופיתוח מנהיגות לניהול בכיר - Be a winner
 
-URL: https://example.com/learning-opportunities
+URL: https://be-a-winner.zappy5.app/learning-opportunities
 Description: גלו את אפשרויות הלימוד של Be a winner: הרצאות השראה, סדנאות יומיות מעשיות, ותהליך קבוצתי פנים ארגוני. קואצ'ינג מתקדם ותוכניות פיתוח מנהיגות לניהול בכיר.
 
 אפשרויות לימוד
@@ -676,9 +676,9 @@ Description: גלו את אפשרויות הלימוד של Be a winner: הרצ�
 
 ---
 
-## https://example.com/meet-the-team
+## https://be-a-winner.zappy5.app/meet-the-team
 
-URL: https://example.com/meet-the-team
+URL: https://be-a-winner.zappy5.app/meet-the-team
 
 להכיר את הצוות
 
@@ -804,9 +804,9 @@ This page is ready for your content.
 
 ---
 
-## https://example.com/what-makes-us-unique
+## https://be-a-winner.zappy5.app/what-makes-us-unique
 
-URL: https://example.com/what-makes-us-unique
+URL: https://be-a-winner.zappy5.app/what-makes-us-unique
 
 מה הופך אותנו ליחודיים
 
@@ -1042,7 +1042,7 @@ URL: https://example.com/what-makes-us-unique
 
 ## סיפורי הצלחה ופריצות דרך ניהוליות | Be a winner
 
-URL: https://example.com/customer-testimonials
+URL: https://be-a-winner.zappy5.app/customer-testimonials
 Description: קראו וצפו בסיפורי ההצלחה של מנכ"לים ומנהלים בכירים שעברו תהליכי קואצ'ינג ופיתוח מנהיגות עם שיטת Be a winner. גלו כיצד אנו מובילים ארגונים לפריצות דרך.
 
 מה אומרים הלקוחות
@@ -1412,9 +1412,9 @@ Description: קראו וצפו בסיפורי ההצלחה של מנכ"לים ו
 
 ---
 
-## https://example.com/communication-and-inspiration-performances
+## https://be-a-winner.zappy5.app/communication-and-inspiration-performances
 
-URL: https://example.com/communication-and-inspiration-performances
+URL: https://be-a-winner.zappy5.app/communication-and-inspiration-performances
 
 הופעות בתקשרות והשראה
 
@@ -1632,9 +1632,9 @@ URL: https://example.com/communication-and-inspiration-performances
 
 ---
 
-## https://example.com/manager-to-leader
+## https://be-a-winner.zappy5.app/manager-to-leader
 
-URL: https://example.com/manager-to-leader
+URL: https://be-a-winner.zappy5.app/manager-to-leader
 
 ממנהל למנהיג - הספר
 
@@ -1787,7 +1787,7 @@ This page is ready for your content.
 
 ## צור קשר לקואצ'ינג מקצועי — Be a winner - השיטה המעשית לפיתוח מנהיגות
 
-URL: https://example.com/contact-us
+URL: https://be-a-winner.zappy5.app/contact-us
 Description: צור קשר עכשיו לקואצ'ינג למנכלים בישראל ותוכנית פיתוח מנהיגות לניהול בכיר. נשמח לשמוע ממך!
 
 צור קשר
@@ -2051,7 +2051,7 @@ robi@robi-steiner.co.il
 
 ## מדיניות פרטיות
 
-URL: https://example.com/privacy
+URL: https://be-a-winner.zappy5.app/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -2299,7 +2299,7 @@ Be a winner - השיטה המעשית לפיתוח מנהיגות ("החברה",
 
 ## הצהרת נגישות
 
-URL: https://example.com/accessibility
+URL: https://be-a-winner.zappy5.app/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -2556,7 +2556,7 @@ Be a winner - השיטה המעשית לפיתוח מנהיגות מחויבת �
 
 ## תנאי שימוש
 
-URL: https://example.com/terms
+URL: https://be-a-winner.zappy5.app/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
